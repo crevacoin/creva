@@ -1194,6 +1194,7 @@ void MapPort(bool)
 
 static const char *strMainNetDNSSeed[][2] = {
     {"node1", "123.57.60.128"}, //Evan's seed node
+    {"crevachain", "183.100.209.141"}, //Added Node
     {NULL, NULL},
 };
 
